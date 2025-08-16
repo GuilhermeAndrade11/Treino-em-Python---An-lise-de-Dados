@@ -1,0 +1,2 @@
+Esse repositório foi um treino simples utilizando Python para análise de dados. O exercício foi gerado por uma IA e CONTÉM inconsistências nos dados. No entanto, o foco era me familiarizar com a linguagem, e não resolver essas questões.
+Para exemplo, basta olhar o item "Ração Premium 1kg". Ela está em várias categorias ao mesmo tempo. Como eu disse, estou ciente disso e a intenção inicialmente não era resolver essa questões, só aprender alguns comandos básicos.
